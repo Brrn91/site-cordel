@@ -4,10 +4,22 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+
+:root {
+  --fonte01: 'Kranky', cursive;
+  --fonte02: 'Roboto', sans-serif;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-size: 1em;
+}
+
 body > header > h1 {
-    font-family: 'Kranky', cursive;
+    font-family: var(--fonte01);
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--fonte02);
 }
