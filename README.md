@@ -35,6 +35,8 @@ O site apresenta um layout inspirado na literatura de cordel, utilizando imagens
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
+Ou [Clique aqui!](https://brrn91.github.io/site-cordel/)
+
 ## Créditos
 
 - **Professor Gustavo Guanabara** — [Curso em Vídeo](https://www.cursoemvideo.com/)
