@@ -23,8 +23,8 @@ html, body {
 }
 
 header {
-  background-color: black;
-  color: white;
+  background-color: #C1BC63;
+  color: black;
   text-align: center;
 }
 
@@ -40,7 +40,7 @@ header > p {
 }
 
 a {
-  color: white;
+  color: black;
   text-decoration: none;
   font-weight: bold;
 }
@@ -92,8 +92,8 @@ section#img02 {
 }
 
 footer {
-  background-color: black;
-  color: white;
+  background-color: #C1BC63;
+  color: black;
   text-align: center;
   padding: 10px;
 }
